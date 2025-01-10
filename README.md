@@ -155,8 +155,7 @@ Modify the `CFG` class to change default settings:
 
 | **Prompt**                                    | **Generated Image**                |
 |-----------------------------------------------|------------------------------------|
-| "spiderman and batman fighting each other"    | ![City](examples/futuristic_city.png) |
-| "A forest with glowing mushrooms"             | ![Forest](examples/forest.png)     |
+| "spiderman and batman fighting each other"    | ![comic]("C:\Users\pavan\OneDrive\Desktop\comicspidy.png") |
 
 ---
 
