@@ -153,10 +153,10 @@ Modify the `CFG` class to change default settings:
 
 ## Example Output
 
-| **Prompt**                     | **Generated Image**                |
-|---------------------------------|------------------------------------|
-| "A futuristic city at night"    | ![City](examples/futuristic_city.png) |
-| "A forest with glowing mushrooms"| ![Forest](examples/forest.png)     |
+| **Prompt**                                    | **Generated Image**                |
+|-----------------------------------------------|------------------------------------|
+| "spiderman and batman fighting each other"    | ![City](examples/futuristic_city.png) |
+| "A forest with glowing mushrooms"             | ![Forest](examples/forest.png)     |
 
 ---
 
