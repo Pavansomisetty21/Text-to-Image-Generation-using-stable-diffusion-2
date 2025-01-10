@@ -1,6 +1,6 @@
 # Text-to-Image-Generation-using-stable-diffusion-2
 In this we generate Images with a prompt(Text)
-Here’s a detailed explanation of the functions used in your project, followed by a final **README** you can use.
+Here’s a detailed explanation of the functions used in your project
 
 ---
 
@@ -110,23 +110,6 @@ Holds project settings for customization:
 
 ---
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/Text-to-Image-Generation-using-stable-diffusion-2.git
-   cd Text-to-Image-Generation-using-stable-diffusion-2
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   pip install torch diffusers transformers matplotlib opencv-python
-   ```
-
-3. **Set Hugging Face Token**:
-   Obtain your token from [Hugging Face](https://huggingface.co/), and replace `YOUR_HF_TOKEN` in the script.
-
----
 
 ## Usage
 
@@ -177,15 +160,10 @@ Modify the `CFG` class to change default settings:
 
 ---
 
-## Acknowledgments
-- **Hugging Face** for the `diffusers` and `transformers` libraries.
-- **Stability AI** for Stable Diffusion v2.
-
----
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 --- 
 
-This README explains the project, the models, and the functions in a user-friendly yet professional way. You can replace placeholder content (like GitHub repo links) with actual information specific to your project.
+
