@@ -156,7 +156,8 @@ Modify the `CFG` class to change default settings:
 | **Prompt**                                    | **Generated Image**                |
 |-----------------------------------------------|------------------------------------|
 | "spiderman and batman fighting each other"    | ![comic](https://github.com/Pavansomisetty21/Text-to-Image-Generation-using-stable-diffusion-2/blob/main/output/comicspidy.png?raw=true) |
-
+|"working woman taking family responsibilities" | ![workingwoman](
+|"Marvel universe with batman"                  | ![withbatman](
 ---
 
 
